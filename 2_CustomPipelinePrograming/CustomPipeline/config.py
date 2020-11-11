@@ -1,3 +1,4 @@
+
 # ====   PATHS ===================
 
 PATH_TO_DATASET = "/home/pauloyun/Documentos/model-Udemy/DeploymentMlModels/medical-cost/insurance.csv"
@@ -12,4 +13,4 @@ NUMERICAL_VAR = ['age','bmi','children']
 CATEGORICAL_ENCODE = ['sex', 'smoker', 'region']
 
 # selected features for training
-FEATURES = ['sex', 'smoker', 'region', 'age','bmi','childrenZ']
+FEATURES = ['sex', 'smoker', 'region', 'age','bmi','children']
