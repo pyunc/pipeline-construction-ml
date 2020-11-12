@@ -1,6 +1,6 @@
 
 # ====   PATHS ===================
-
+# ====   INITIAL PARAMETERS ===================
 PATH_TO_DATASET = "/home/pauloyun/Documentos/model-Udemy/DeploymentMlModels/medical-cost/insurance.csv"
                      
 # variable groups for engineering steps
